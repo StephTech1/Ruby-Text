@@ -6,3 +6,4 @@ puts "my daughter is also a genius".capitalize
 puts "HER brother ISHMAEL is ALSO a GENIUS".swapcase
 #reverse the text
 puts "They get it from mom not dad".reverse
+
